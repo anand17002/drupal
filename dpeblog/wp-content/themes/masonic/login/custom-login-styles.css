@@ -1,0 +1,13 @@
+body{
+	background:#663434 !important;
+}
+#login{
+	width: 520px !important; 
+}
+#loginform{
+	border-radius: 20px;
+}
+.login label{
+	color: #161617 !important;
+    font-size: 19px;
+}
